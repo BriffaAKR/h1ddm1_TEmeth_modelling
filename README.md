@@ -3,3 +3,6 @@ Script for ["Extensive de novo activity stabilizes epigenetic inheritance of CG 
 
 ## How to run the code
 Code runs in a jupyter notebook using python 3.
+
+Three input files are also included at .txt files. 
+These should be downloaded into the same working directory as the code. 
