@@ -7,5 +7,5 @@ Code runs in a jupyter notebook using python 3.
 Three input files are included as .txt files. 
 These should be downloaded into the same working directory as the code. 
 
-# Repository DOI:
-(https://doi.org/10.5281/zenodo.7308320)
+## Repository DOI:
+https://doi.org/10.5281/zenodo.7308320
